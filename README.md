@@ -32,7 +32,11 @@ A comprehensive analysis of a superstore's sales data to track performance and i
 *   Developed an interactive Power BI dashboard to visualize sales, profit, and quantity metrics across different dimensions like category, region, and segment.
 *   Utilized DAX to create calculated columns and measures for in-depth time-series analysis and KPI tracking.
 *   **Key Insights:** Identified top-performing product categories and regions, analyzed sales trends over time, and provided actionable recommendations for improving profitability.
-*   **🔗 [View Project ](https://github.com/Arryan313/Superstore-sales-dashboard)**
+*   **🔗 [View Project with Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODlkYzQ3NTYtNTcyZC00OWNkLTljNzAtNWU3M2Y3YjBiNDBiIiwidCI6ImViZTg4MTMzLTg0NTMtNDM1Mi05MmI0LWY5OWNkMTU3NjIyYSIsImMiOjl9)**
+*   [Sample Data](
+[Sample - Superstore.csv](https://github.com/user-attachments/files/21956549/Sample.-.Superstore.csv)
+)
+        
 
 ### Telecom Customer Churn Analysis Dashboard
 **| Power BI | Data Analysis | Business Intelligence |**
@@ -41,7 +45,10 @@ An analysis of a telecom company's customer data to understand the factors influ
 *   Built a dynamic Power BI dashboard to segment customers, analyze churn reasons, and monitor key churn-related metrics.
 *   Explored demographics, service subscriptions, and customer tenure to pinpoint the profiles most likely to churn.
 *   **Key Insights:** Provided data-driven strategies for customer retention, such as targeting specific customer segments with tailored offers.
-*   **🔗 [View Project on GitHub](https://github.com/Arryan313/Telecom_Churn_Analysis_Dashboard)**
+*   **🔗 [View Project with Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjI4OTY1ODUtMzU0Zi00MWM1LTljMzctODFhMWY2NWZjNmYzIiwidCI6ImViZTg4MTMzLTg0NTMtNDM1Mi05MmI0LWY5OWNkMTU3NjIyYSIsImMiOjl9)**
+*   [Sample Data](
+[WA_Fn-UseC_-Telco-Customer-Churn.csv](https://github.com/user-attachments/files/21956548/WA_Fn-UseC_-Telco-Customer-Churn.csv)
+)
 
 ---
 
