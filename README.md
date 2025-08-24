@@ -46,9 +46,9 @@ An analysis of a telecom company's customer data to understand the factors influ
 *   Explored demographics, service subscriptions, and customer tenure to pinpoint the profiles most likely to churn.
 *   **Key Insights:** Provided data-driven strategies for customer retention, such as targeting specific customer segments with tailored offers.
 *   **🔗 [View Project with Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjI4OTY1ODUtMzU0Zi00MWM1LTljMzctODFhMWY2NWZjNmYzIiwidCI6ImViZTg4MTMzLTg0NTMtNDM1Mi05MmI0LWY5OWNkMTU3NjIyYSIsImMiOjl9)**
-*   [Sample Data](
-[WA_Fn-UseC_-Telco-Customer-Churn.csv](https://github.com/user-attachments/files/21956548/WA_Fn-UseC_-Telco-Customer-Churn.csv)
-)
+*   [Sample Data]
+*   [WA_Fn-UseC_-Telco-Customer-Churn.csv](https://github.com/user-attachments/files/21956548/WA_Fn-UseC_-Telco-Customer-Churn.csv)
+
 
 ---
 
