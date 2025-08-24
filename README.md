@@ -52,6 +52,12 @@ An analysis of a telecom company's customer data to understand the factors influ
 
 ---
 
+## 🌟 Future Aspirations
+
+My ambition is to evolve from a Data Analyst into a **Senior Data Scientist** specializing in **Machine Learning Engineering**. I am fascinated by the potential of AI to solve complex problems and want to be at the forefront of designing, building, and deploying scalable machine learning models that have a tangible impact on business strategy and operations. I aim to master not just predictive modeling, but also the MLOps lifecycle that brings these models into production.
+
+---
+
 ## 📫 Let's Connect!
 
 I am always open to discussing new opportunities, data projects, or potential collaborations.
