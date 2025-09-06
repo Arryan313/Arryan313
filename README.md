@@ -25,7 +25,7 @@ A passionate and results-oriented Data Analyst with a strong foundation in SQL, 
 
 Here are a few projects I've built to showcase my skills.
 
-### Superstore Sales Performance Dashboard
+### *Superstore Sales Performance Dashboard
 **| Power BI | DAX | Data Modeling |**
 
 A comprehensive analysis of a superstore's sales data to track performance and identify key growth opportunities.
@@ -38,7 +38,7 @@ A comprehensive analysis of a superstore's sales data to track performance and i
 )
         
 
-### Telecom Customer Churn Analysis Dashboard
+### *Telecom Customer Churn Analysis Dashboard
 **| Power BI | Data Analysis | Business Intelligence |**
 
 An analysis of a telecom company's customer data to understand the factors influencing customer churn and help reduce attrition rates.
