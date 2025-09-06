@@ -148,6 +148,43 @@ print(f"Welcome to {arryan.name}'s data universe! 🌌")
 
 ---
 
+### 🔍 **Sales Analytics & SQL Mastery Project**
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+> **🎯 Mission:** Complete end-to-end sales data pipeline from raw data to actionable insights
+
+**What I Built:**
+- 🗄️ **SQLite Database Architecture** - Normalized tables with optimized queries
+- 📊 **Advanced SQL Analytics** - Window functions, CTEs, and complex aggregations  
+- 🐍 **Python Data Pipeline** - Automated ETL process with pandas & numpy
+- 📈 **Dynamic Visualizations** - Interactive charts with matplotlib & seaborn
+- 📋 **Comprehensive Reporting** - PDF exports and automated chart generation
+
+**💡 Technical Achievements:**
+- ⚡ Generated 2,492+ sales records with realistic business logic
+- 🎯 Built 4 interconnected database tables with referential integrity
+- 📊 Created 6+ complex SQL queries with window functions & rankings
+- 🔥 Automated visualization pipeline generating multiple chart formats
+
+**🚀 Key Features:**
+- Monthly sales trends with 3-month moving averages
+- Regional category performance rankings
+- Top product analysis across multiple dimensions
+- Profit margin calculations and business insights
+
+<div align="center">
+
+[![View Code](https://img.shields.io/badge/💻_View_Code-SQL_&_Python_Analysis-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arryan313/sales-analytics-sql-project)
+[![Jupyter Notebooks](https://img.shields.io/badge/📓_Notebooks-Interactive_Analysis-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/Arryan313/sales-analytics-sql-project)
+
+</div>
+
+---
+
 ### 📱 **Telecom Customer Churn Analysis Dashboard**
 <div align="center">
 
