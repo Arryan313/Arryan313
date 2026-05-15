@@ -133,23 +133,6 @@ Transformed raw superstore data into crystal-clear insights for strategic busine
 
 ---
 
-### 🔍 Sales Analytics & SQL Mastery Project
-
-> *Python × SQLite × Pandas × Matplotlib*
-
-Complete end-to-end sales data pipeline from raw data to actionable business insights.
-
-**Technical Achievements:**
-
-- ⚡ Generated **2,492+ realistic sales records** with custom business logic
-- 🗄️ Built **4 interconnected database tables** with full referential integrity
-- 📊 Created **6+ complex SQL queries** with window functions & rankings
-- 🔥 Automated visualization pipeline generating multiple chart formats
-
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arryan313/sales-analytics-sql-project)
-
----
-
 ### 📱 Telecom Customer Churn Analysis Dashboard
 
 > *Power BI × Business Intelligence × Customer Analytics*
