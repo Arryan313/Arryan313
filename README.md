@@ -86,7 +86,6 @@ class ArryanRabbani:
 
 ---
 
-## 🚀 Portfolio Projects
 
 ### 🤖 Intelligent Task Manager — ML-Powered Full-Stack App
 
@@ -110,7 +109,6 @@ An end-to-end intelligent task management system that uses Machine Learning to a
 - **Deadline Boost:** < 24h = +2 priority | < 72h = +1 | > 7 days = −1
 - **Retraining Pipeline:** Model supports future retraining on real user data
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C851?style=flat-square&logo=render&logoColor=white)](#)
 [![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arryan313/task-manager)
 
 ---
