@@ -49,11 +49,13 @@ class ArryanRabbani:
 
     def available_for(self):
         return ["Remote Full-Time", "Contract", "Freelance", "Open Source"]
+
 🚀 Featured Projects
 🤖 AI Code Reviewer — Local LLM Powered
 React · FastAPI · Ollama · CodeLlama · Docker · HuggingFace
+
 Production-grade code analysis platform. 100% free, 100% private — runs entirely on your machine.
-Table
+
 Feature	Tech
 🔍 AI Bug Detection	CodeLlama 7B via Ollama
 📊 AST Static Analysis	Python ast module
@@ -63,32 +65,40 @@ Feature	Tech
 bash
 docker-compose up --build  # That's it. Entire stack runs locally.
 Highlights:
+
 Severity scoring: Critical → High → Medium → Low
+
 Cyclomatic complexity analysis
+
 Fix suggestions with code examples
+
 Zero API costs, zero data leaves your machine
-https://github.com/Arryan313/code-reviewer-ai
-#
+
+🔗 View Project
+
 📚 RAG Document Q&A — AI Knowledge Base
 React · FastAPI · LangChain · ChromaDB · HuggingFace Embeddings
+
 Upload PDFs. Ask questions. Get cited answers from your documents.
-Table
+
 Feature	Tech
 📄 PDF/TXT Ingestion	PyPDFLoader, RecursiveCharacterTextSplitter
 🧠 Semantic Search	all-MiniLM-L6-v2 embeddings (free, local)
 💾 Vector Storage	ChromaDB with persistent storage
 🔗 Source Attribution	Every answer shows which document/page
 ⚡ Fast Retrieval	Top-3 similarity search
-Python
+python
 # How it works
 chunks → embeddings → ChromaDB → similarity search → LLM answer + sources
 Why this matters: Companies pay $10K+/month for this. You built it free.
-https://github.com/Arryan313/rag-document-qa
-#
+
+🔗 View Project
+
 🏢 HR Genius — AI-Powered HR Management Platform
 Flask · React Native · SQLite · Bootstrap · REST APIs
+
 End-to-end HR platform with role-based access and ML-powered insights.
-Table
+
 Module	Feature
 👤 Auth	Werkzeug-secured + Flask-Login sessions
 📊 Dashboard	AJAX-powered live analytics
@@ -96,50 +106,27 @@ Module	Feature
 🔮 Churn Prediction	ML model flags at-risk employees
 📱 Mobile App	React Native cross-platform
 Stack: Flask-SQLAlchemy ORM, glassmorphism UI, payroll, leave management, audit logs
-https://github.com/Arryan313/hr-genius
+
+🔗 View Project
+
 🛠️ Tech Stack
 <div align="center">
 AI & Machine Learning
-https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white
-https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white
-https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black
-https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white
-https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white
-https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 Backend
-https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
-https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white
-https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white
-https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" /> <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 Frontend
-https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black
-https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=chartdotjs&logoColor=white
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 Databases & Vector Stores
-https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white
-https://img.shields.io/badge/ChromaDB-1F1F1F?style=flat-square&logo=databricks&logoColor=white
-https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-1F1F1F?style=for-the-badge&logo=databricks&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 DevOps & Tools
-https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white
-https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 Data Visualization
-https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black
-https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=microsoft&logoColor=black
-https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white
-</div>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=microsoft&logoColor=black" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" /></div>
 📊 GitHub Analytics
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Arryan313&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arryan313&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="49%"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arryan313&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="40%"/>
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arryan313&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github&include_all_commits=true" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arryan313&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="49%" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arryan313&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="40%" /> </div>
 🗺️ Engineering Journey
-plain
+text
 [2022] ──► Data Analyst
               └─ Python, SQL, Power BI dashboards
 
@@ -156,21 +143,25 @@ plain
               └─ Scalable AI systems, multi-agent orchestration
 💡 What I Believe
 "The best AI systems run locally, scale globally, and respect privacy."
+
 I build systems that:
+
 ✅ Run on your laptop (Ollama, local embeddings)
+
 ✅ Deploy with one command (Docker Compose)
+
 ✅ Cost $0 in API fees (open-source LLMs)
+
 ✅ Scale to production when needed
+
 🤝 Let's Build Something
 <div align="center">
 I'm open to remote full-time roles, contract projects, and freelance AI development.
-mailto:arryanrabbani8@gmail.com 
-https://github.com/Arryan313 
-https://linkedin.com/in/arryanrabbani
-<br/>
+
+📧 arryanrabbani8@gmail.com  |  🐙 @Arryan313  |  💼 LinkedIn
+
+
 "Ship fast. Learn faster. Build what matters."
-<br/>
-https://komarev.com/ghpvc/?username=Arryan313&color=00D9FF&style=flat-square&label=Profile+Views
-</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=a0aec0&animation=fadeIn&fontAlignY=70" />
-```
+
+
+<img src="https://komarev.com/ghpvc/?username=Arryan313&color=00D9FF&style=flat-square&label=Profile+Views" /></div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=a0aec0&animation=fadeIn&fontAlignY=70" /> ```
