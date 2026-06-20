@@ -49,8 +49,17 @@ class ArryanRabbani:
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 ### 🤖 AI Code Reviewer — Local LLM Powered
+
 `React` `FastAPI` `Ollama` `CodeLlama` `Docker` `HuggingFace`
+
+![Repo stars](https://img.shields.io/github/stars/Arryan313/code-reviewer-ai?style=flat-square&color=00D9FF&labelColor=0D1117)
+![Last commit](https://img.shields.io/github/last-commit/Arryan313/code-reviewer-ai?style=flat-square&color=FF6B35&labelColor=0D1117)
+![Top language](https://img.shields.io/github/languages/top/Arryan313/code-reviewer-ai?style=flat-square&color=22B5BF&labelColor=0D1117)
+
+</div>
 
 Production-grade code analysis platform. 100% free, 100% private — runs entirely on your machine.
 
@@ -72,12 +81,27 @@ docker-compose up --build  # That's it. Entire stack runs locally.
 - Fix suggestions with code examples
 - Zero API costs, zero data leaves your machine
 
-**[🔗 View Project →](#)**
+<p align="center">
+<a href="https://github.com/Arryan313/code-reviewer-ai/tree/main/code-reviewer-ai"><img src="https://img.shields.io/badge/🔗_View_Repository-00D9FF?style=for-the-badge&logoColor=white" /></a>
+</p>
 
 <br/>
 
+---
+
+<br/>
+
+<div align="center">
+
 ### 📚 RAG Document Q&A — AI Knowledge Base
+
 `React` `FastAPI` `LangChain` `ChromaDB` `HuggingFace Embeddings`
+
+![Repo stars](https://img.shields.io/github/stars/Arryan313/rag-qa-system?style=flat-square&color=00D9FF&labelColor=0D1117)
+![Last commit](https://img.shields.io/github/last-commit/Arryan313/rag-qa-system?style=flat-square&color=FF6B35&labelColor=0D1117)
+![Top language](https://img.shields.io/github/languages/top/Arryan313/rag-qa-system?style=flat-square&color=22B5BF&labelColor=0D1117)
+
+</div>
 
 Upload PDFs. Ask questions. Get cited answers from your documents.
 
@@ -95,12 +119,27 @@ chunks → embeddings → ChromaDB → similarity search → LLM answer + source
 
 > **Why this matters:** Companies pay $10K+/month for this. You built it free.
 
-**[🔗 View Project →](#)**
+<p align="center">
+<a href="https://github.com/Arryan313/rag-qa-system"><img src="https://img.shields.io/badge/🔗_View_Repository-00D9FF?style=for-the-badge&logoColor=white" /></a>
+</p>
 
 <br/>
 
+---
+
+<br/>
+
+<div align="center">
+
 ### 🏢 HR Genius — AI-Powered HR Management Platform
+
 `Flask` `React Native` `SQLite` `Bootstrap` `REST APIs`
+
+![Repo stars](https://img.shields.io/github/stars/Arryan313/hr_genius?style=flat-square&color=00D9FF&labelColor=0D1117)
+![Last commit](https://img.shields.io/github/last-commit/Arryan313/hr_genius?style=flat-square&color=FF6B35&labelColor=0D1117)
+![Top language](https://img.shields.io/github/languages/top/Arryan313/hr_genius?style=flat-square&color=22B5BF&labelColor=0D1117)
+
+</div>
 
 End-to-end HR platform with role-based access and ML-powered insights.
 
@@ -114,7 +153,9 @@ End-to-end HR platform with role-based access and ML-powered insights.
 
 Stack: Flask-SQLAlchemy ORM, glassmorphism UI, payroll, leave management, audit logs
 
-**[🔗 View Project →](#)**
+<p align="center">
+<a href="https://github.com/Arryan313/hr_genius"><img src="https://img.shields.io/badge/🔗_View_Repository-00D9FF?style=for-the-badge&logoColor=white" /></a>
+</p>
 
 <br/>
 
