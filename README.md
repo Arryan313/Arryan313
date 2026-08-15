@@ -5,14 +5,13 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+AI+Systems+That+Think;PyTorch+%7C+FastAPI+%7C+React+%7C+LangChain+%7C+RAG;Local+LLMs+%7C+Vector+Databases+%7C+Docker;Open+for+Remote+%26+Full-Time+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+AI+Systems+That+Think;PyTorch+%7C+FastAPI+%7C+React+%7C+LangChain+%7C+RAG;Local+LLMs+%7C+Vector+Databases+%7C+Docker;Open+for+ML+Engineer+%26+Full-Stack+Roles" />
 </a>
 
 <br/><br/>
 
 <a href="mailto:arryanrabbani8@gmail.com"><img src="https://img.shields.io/badge/arryanrabbani8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Arryan313"><img src="https://img.shields.io/badge/Arryan313-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/arryanrabbani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="#-featured-projects"><img src="https://img.shields.io/badge/Live%20Projects-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
@@ -25,24 +24,20 @@
 class ArryanRabbani:
     name     = "Arryan Rabbani"
     roles    = ["Full-Stack ML Engineer", "AI Systems Developer"]
-    location = "Rawalpindi, Pakistan (Remote)"
-    passion  = "Building production AI systems that run locally & scale globally"
-    goal     = "Senior AI Engineer & LLM Solutions Architect"
+    location = "Rawalpindi, Pakistan"
+    passion  = "Building intelligent software that solves real business problems"
+    goal     = "ML Engineer & Full-Stack Developer"
 
     stack = {
-        "ai_ml"     : ["PyTorch", "LangChain", "RAG", "HuggingFace", "Ollama", "scikit-learn"],
-        "backend"   : ["FastAPI", "Pydantic", "SQLAlchemy", "REST APIs", "Async"],
-        "frontend"  : ["React 18", "Tailwind CSS", "Recharts"],
-        "databases" : ["PostgreSQL", "ChromaDB", "SQLite"],
-        "devops"    : ["Docker", "Docker Compose", "Git", "GitHub Actions"],
-        "viz"       : ["Power BI", "DAX", "Matplotlib"],
+        "ai_ml"     : ["PyTorch", "LangChain", "RAG", "scikit-learn"],
+        "backend"   : ["Python", "FastAPI"],
+        "frontend"  : ["React"],
+        "databases" : ["PostgreSQL", "ChromaDB"],
+        "devops"    : ["Docker", "GitHub"],
     }
 
     def current_focus(self):
-        return "Local LLM inference • RAG systems • AI-powered developer tools"
-
-    def available_for(self):
-        return ["Remote Full-Time", "Contract", "Freelance", "Open Source"]
+        return "Conversational AI • RAG systems • Enterprise AI platforms"
 ```
 
 <br/>
@@ -51,38 +46,29 @@ class ArryanRabbani:
 
 <div align="center">
 
-### 🤖 AI Code Reviewer — Local LLM Powered
+### 🤖 NexusAI — Call Center Command & Automation Platform
 
-`React` `FastAPI` `Ollama` `CodeLlama` `Docker` `HuggingFace`
-
-![Repo stars](https://img.shields.io/github/stars/Arryan313/code-reviewer-ai?style=flat-square&color=00D9FF&labelColor=0D1117)
-![Last commit](https://img.shields.io/github/last-commit/Arryan313/code-reviewer-ai?style=flat-square&color=FF6B35&labelColor=0D1117)
-![Top language](https://img.shields.io/github/languages/top/Arryan313/code-reviewer-ai?style=flat-square&color=22B5BF&labelColor=0D1117)
+`Conversational AI` `Voice Agents` `CRM Integration` `RAG` `Omnichannel`
 
 </div>
 
-Production-grade code analysis platform. 100% free, 100% private — runs entirely on your machine.
+Enterprise AI platform solving the biggest challenges in modern call centers — long hold times, manual CRM entry, and slow follow-ups.
 
-| Feature | Tech |
+| Feature | Description |
 |---|---|
-| 🔍 AI Bug Detection | CodeLlama 7B via Ollama |
-| 📊 AST Static Analysis | Python `ast` module |
-| 🎨 Dark Dashboard | React 18 + Tailwind CSS + Recharts |
-| 📁 Multi-Language | Python, JS, TS, Java, Go, Rust |
-| 🐳 One-Command Deploy | Docker Compose (Ollama + FastAPI + React) |
-
-```bash
-docker-compose up --build  # That's it. Entire stack runs locally.
-```
+| 🎙️ Live Voice Agent Studio | Sub-500ms latency, real-time sentiment analysis, caller intent extraction |
+| 👥 Customer 360 CRM Hub | Bi-directional sync with HubSpot, Salesforce, Zendesk & Zoho |
+| 📱 Omnichannel Dispatch | Instant WhatsApp/SMS/Email follow-ups the second a call ends |
+| 📊 Automated QA Scoring | AI evaluates 100% of calls — vs humans listening to 1–2% |
+| ⚡ Visual Workflow Builder | Event triggers e.g. "missed call → auto-text booking link" |
 
 **Highlights**
-- Severity scoring: Critical → High → Medium → Low
-- Cyclomatic complexity analysis
-- Fix suggestions with code examples
-- Zero API costs, zero data leaves your machine
+- Resolves routine calls without a human agent
+- Eliminates manual follow-ups and reduces no-show rates
+- Financial ROI & AHT savings calculator built-in
 
 <p align="center">
-<a href="https://github.com/Arryan313/code-reviewer-ai/tree/main/code-reviewer-ai"><img src="https://img.shields.io/badge/🔗_View_Repository-00D9FF?style=for-the-badge&logoColor=white" /></a>
+<a href="https://nexusai-crm-ai-call-center-automation-suite.ai.studio"><img src="https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -93,34 +79,28 @@ docker-compose up --build  # That's it. Entire stack runs locally.
 
 <div align="center">
 
-### 📚 RAG Document Q&A — AI Knowledge Base
+### 🔬 Polymath Lab — Interactive STEM Platform
 
-`React` `FastAPI` `LangChain` `ChromaDB` `HuggingFace Embeddings`
-
-![Repo stars](https://img.shields.io/github/stars/Arryan313/rag-qa-system?style=flat-square&color=00D9FF&labelColor=0D1117)
-![Last commit](https://img.shields.io/github/last-commit/Arryan313/rag-qa-system?style=flat-square&color=FF6B35&labelColor=0D1117)
-![Top language](https://img.shields.io/github/languages/top/Arryan313/rag-qa-system?style=flat-square&color=22B5BF&labelColor=0D1117)
+`AI Simulation` `React` `Real-Time Visualization` `Voice AI` `LangChain`
 
 </div>
 
-Upload PDFs. Ask questions. Get cited answers from your documents.
+Transforms complex scientific and mathematical ideas into real-time, visual simulations you can see, hear, manipulate, and explore.
 
-| Feature | Tech |
+| Feature | Description |
 |---|---|
-| 📄 PDF/TXT Ingestion | PyPDFLoader, RecursiveCharacterTextSplitter |
-| 🧠 Semantic Search | all-MiniLM-L6-v2 embeddings (free, local) |
-| 💾 Vector Storage | ChromaDB with persistent storage |
-| 🔗 Source Attribution | Every answer shows which document/page |
-| ⚡ Fast Retrieval | Top-3 similarity search |
+| ⚡ 60fps Simulations | Physics, neural networks, orbital mechanics, DNA replication |
+| 🧠 AI Concept Generator | Type any topic — AI builds custom canvas, formulas & quizzes |
+| 📊 Live Telemetry Recorder | Real-time data capture with CSV export |
+| 🔀 Dual Comparison Mode | Run two simulations side-by-side to compare outcomes |
+| 🎙️ Voice Walkthroughs | Guided voice explanations with contextual knowledge quizzes |
 
 ```
-chunks → embeddings → ChromaDB → similarity search → LLM answer + sources
+Type a topic → AI generates interactive canvas → Adjust sliders → See it at 60fps
 ```
-
-> **Why this matters:** Companies pay $10K+/month for this. You built it free.
 
 <p align="center">
-<a href="https://github.com/Arryan313/rag-qa-system"><img src="https://img.shields.io/badge/🔗_View_Repository-00D9FF?style=for-the-badge&logoColor=white" /></a>
+<a href="https://polymath-lab-ai-science-math-visualizer.ai.studio"><img src="https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -133,7 +113,7 @@ chunks → embeddings → ChromaDB → similarity search → LLM answer + source
 
 ### 🏢 HR Genius — AI-Powered HR Management Platform
 
-`Flask` `React Native` `SQLite` `Bootstrap` `REST APIs`
+`Flask` `SQLite` `scikit-learn` `REST APIs`
 
 ![Repo stars](https://img.shields.io/github/stars/Arryan313/hr_genius?style=flat-square&color=00D9FF&labelColor=0D1117)
 ![Last commit](https://img.shields.io/github/last-commit/Arryan313/hr_genius?style=flat-square&color=FF6B35&labelColor=0D1117)
@@ -141,20 +121,19 @@ chunks → embeddings → ChromaDB → similarity search → LLM answer + source
 
 </div>
 
-End-to-end HR platform with role-based access and ML-powered insights.
+End-to-end HR platform with role-based access and ML-powered workforce insights.
 
 | Module | Feature |
 |---|---|
 | 👤 Auth | Werkzeug-secured + Flask-Login sessions |
-| 📊 Dashboard | AJAX-powered live analytics |
+| 📊 Dashboard | AJAX-powered live analytics with glassmorphism UI |
 | 🤖 AI Reviews | Performance review with anti-bias detection |
 | 🔮 Churn Prediction | ML model flags at-risk employees |
-| 📱 Mobile App | React Native cross-platform |
-
-Stack: Flask-SQLAlchemy ORM, glassmorphism UI, payroll, leave management, audit logs
+| 📋 Full Modules | Attendance, payroll, asset management, leave requests, audit logs |
 
 <p align="center">
-<a href="https://github.com/Arryan313/hr_genius"><img src="https://img.shields.io/badge/🔗_View_Repository-00D9FF?style=for-the-badge&logoColor=white" /></a>
+<a href="https://arryan.pythonanywhere.com/"><img src="https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/Arryan313/hr_genius"><img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -165,44 +144,28 @@ Stack: Flask-SQLAlchemy ORM, glassmorphism UI, payroll, leave management, audit 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Systems-00D9FF?style=for-the-badge&logoColor=white)
 
 **Backend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 **Databases & Vector Stores**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-1F1F1F?style=for-the-badge&logo=databricks&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Data Visualization**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 
@@ -234,7 +197,7 @@ Stack: Flask-SQLAlchemy ORM, glassmorphism UI, payroll, leave management, audit 
               └─ React, FastAPI, REST APIs, databases
 
 2026  ──►  AI Engineer  ◄── YOU ARE HERE
-              └─ PyTorch, LangChain, RAG, Local LLMs, Docker
+              └─ PyTorch, LangChain, RAG, Docker, Enterprise AI platforms
 
 Next  ──►  LLM Solutions Architect
               └─ Scalable AI systems, multi-agent orchestration
@@ -242,28 +205,15 @@ Next  ──►  LLM Solutions Architect
 
 <br/>
 
-## 💡 What I Believe
-
-> *"The best AI systems run locally, scale globally, and respect privacy."*
-
-I build systems that:
-
-- ✅ Run on your laptop (Ollama, local embeddings)
-- ✅ Deploy with one command (Docker Compose)
-- ✅ Cost $0 in API fees (open-source LLMs)
-- ✅ Scale to production when needed
-
-<br/>
-
-## 🤝 Let's Build Something
+## 🤝 Let's Connect
 
 <div align="center">
 
-I'm open to **remote full-time roles**, **contract projects**, and **freelance AI development**.
+I'm open to **ML Engineer** and **Full-Stack Developer** roles — remote or on-site.
 
-📧 **arryanrabbani8@gmail.com** &nbsp;|&nbsp; 🐙 **[@Arryan313](https://github.com/Arryan313)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/arryanrabbani)**
+📧 **arryanrabbani8@gmail.com** &nbsp;|&nbsp; 🐙 **[@Arryan313](https://github.com/Arryan313)**
 
-*"Ship fast. Learn faster. Build what matters."*
+*"Build what matters. Ship it. Make it real."*
 
 <br/>
 
