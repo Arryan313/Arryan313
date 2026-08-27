@@ -29,11 +29,12 @@ class ArryanRabbani:
     goal     = "ML Engineer & Full-Stack Developer"
 
     stack = {
-        "ai_ml"     : ["PyTorch", "LangChain", "RAG", "scikit-learn"],
-        "backend"   : ["Python", "FastAPI"],
+        "ai_ml"     : ["Scikit-learn", "LangChain", "RAG", "HuggingFace"],
+        "backend"   : ["Python", "FastAPI", "Flask"],
         "frontend"  : ["React"],
-        "databases" : ["PostgreSQL", "ChromaDB"],
+        "databases" : ["PostgreSQL", "ChromaDB", "SQLite"],
         "devops"    : ["Docker", "GitHub"],
+        "tools"     : ["VS Code", "Cursor"],
     }
 
     def current_focus(self):
@@ -111,6 +112,42 @@ Type a topic → AI generates interactive canvas → Adjust sliders → See it a
 
 <div align="center">
 
+### 📚 RAG Document Q&A — DocMind
+
+`FastAPI` `React` `LangChain` `ChromaDB` `HuggingFace Embeddings`
+
+![Repo stars](https://img.shields.io/github/stars/Arryan313/rag-qa-system?style=flat-square&color=00D9FF&labelColor=0D1117)
+![Last commit](https://img.shields.io/github/last-commit/Arryan313/rag-qa-system?style=flat-square&color=FF6B35&labelColor=0D1117)
+![Top language](https://img.shields.io/github/languages/top/Arryan313/rag-qa-system?style=flat-square&color=22B5BF&labelColor=0D1117)
+
+</div>
+
+Upload PDFs. Ask questions. Get cited answers — fully private, zero API costs.
+
+| Feature | Description |
+|---|---|
+| 📄 PDF/TXT Ingestion | Upload documents and instantly make them queryable |
+| 🧠 Semantic Search | all-MiniLM-L6-v2 local embeddings — free & private |
+| 💾 Vector Storage | ChromaDB with persistent storage across sessions |
+| 🔗 Source Attribution | Every answer shows which document and page it came from |
+| ⚡ Fully Offline | No OpenAI, no API keys, runs entirely on your machine |
+
+```
+Upload PDF → chunk → embed → ChromaDB → semantic search → AI answer + sources
+```
+
+<p align="center">
+<a href="https://github.com/Arryan313/rag-qa-system"><img src="https://img.shields.io/badge/🔗_View_Repository-00D9FF?style=for-the-badge&logoColor=white" /></a>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
 ### 🏢 HR Genius — AI-Powered HR Management Platform
 
 `Flask` `SQLite` `scikit-learn` `REST APIs`
@@ -142,9 +179,9 @@ End-to-end HR platform with role-based access and ML-powered workforce insights.
 
 **AI & Machine Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG_Systems-00D9FF?style=for-the-badge&logoColor=white)
 
 **Backend**
@@ -161,11 +198,14 @@ End-to-end HR platform with role-based access and ML-powered workforce insights.
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-1F1F1F?style=for-the-badge&logo=databricks&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 <br/>
 
