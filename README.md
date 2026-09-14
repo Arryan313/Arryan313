@@ -30,8 +30,8 @@ class ArryanRabbani:
 
     stack = {
         "ai_ml"     : ["Scikit-learn", "LangChain", "RAG", "HuggingFace"],
-        "backend"   : ["Python", "FastAPI", "Flask"],
-        "frontend"  : ["React"],
+        "backend"   : ["Python", "FastAPI", "Flask", "Next.js", "Prisma"],
+        "frontend"  : ["React", "Tailwind CSS", "shadcn/ui"],
         "databases" : ["PostgreSQL", "ChromaDB", "SQLite"],
         "devops"    : ["Docker", "GitHub"],
         "tools"     : ["VS Code", "Cursor"],
@@ -44,6 +44,43 @@ class ArryanRabbani:
 <br/>
 
 ## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌐 AI Web Intelligence Agent — Autonomous Web Scraping Platform
+
+`Next.js` `React` `Tailwind CSS` `Prisma` `SQLite` `shadcn/ui`
+
+![Repo stars](https://img.shields.io/github/stars/Arryan313/-AI-Web-Intelligence-Agent?style=flat-square&color=00D9FF&labelColor=0D1117)
+![Last commit](https://img.shields.io/github/last-commit/Arryan313/-AI-Web-Intelligence-Agent?style=flat-square&color=FF6B35&labelColor=0D1117)
+![Top language](https://img.shields.io/github/languages/top/Arryan313/-AI-Web-Intelligence-Agent?style=flat-square&color=22B5BF&labelColor=0D1117)
+
+</div>
+
+Describe what you want to find in plain English — the agent plans, crawls, extracts, validates, and presents structured results autonomously.
+
+| Feature | Description |
+|---|---|
+| 🧠 Plain-English Jobs | Describe your intelligence task in natural language — no code needed |
+| 🕷️ Autonomous Web Crawler | Crawls target URLs with configurable page and depth limits |
+| 📊 Structured Extraction | Extracts, validates, and compares structured data across jobs |
+| ⏰ Scheduled Scraping | Set recurring jobs with full tracking, field history, and analytics |
+| 🔍 Site Reconnaissance | Built-in recon tools, AI audit logs, project templates, and notifications |
+| 🛠️ Mock AI Mode | Full local development without any API key required |
+
+```
+Describe task in English → Agent plans → Crawls URLs → Extracts data → Validates → Dashboard
+```
+
+<p align="center">
+<a href="https://github.com/Arryan313/-AI-Web-Intelligence-Agent"><img src="https://img.shields.io/badge/🔗_View_Repository-00D9FF?style=for-the-badge&logoColor=white" /></a>
+</p>
+
+<br/>
+
+---
+
+<br/>
 
 <div align="center">
 
