@@ -212,6 +212,38 @@ End-to-end HR platform with role-based access and ML-powered workforce insights.
 
 <br/>
 
+---
+
+<br/>
+
+<div align="center">
+
+### 🎨 Nouman Iftikhar — Personal Portfolio Website
+
+`React` `Tailwind CSS` `Netlify`
+
+![Repo stars](https://img.shields.io/github/stars/Arryan313/nouman-iftikhar-portfolio?style=flat-square&color=00D9FF&labelColor=0D1117)
+![Last commit](https://img.shields.io/github/last-commit/Arryan313/nouman-iftikhar-portfolio?style=flat-square&color=FF6B35&labelColor=0D1117)
+![Top language](https://img.shields.io/github/languages/top/Arryan313/nouman-iftikhar-portfolio?style=flat-square&color=22B5BF&labelColor=0D1117)
+
+</div>
+
+A clean, responsive personal portfolio website built and deployed for a client — showcasing their work, skills, and contact information.
+
+| Feature | Description |
+|---|---|
+| 🎨 Modern UI | Sleek, responsive design optimized for all screen sizes |
+| ⚡ Fast Deployment | Hosted on Netlify with continuous deployment from GitHub |
+| 📱 Fully Responsive | Pixel-perfect layout across desktop, tablet, and mobile |
+| 🔗 Client-Ready | Production-grade build delivered and live for the client |
+
+<p align="center">
+<a href="https://cool-taiyaki-35bd9b.netlify.app/"><img src="https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge&logoColor=white" /></a>
+<a href="https://github.com/Arryan313/nouman-iftikhar-portfolio"><img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 **AI & Machine Learning**
