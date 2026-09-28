@@ -1,12 +1,14 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Arryan%20Rabbani&fontSize=52&fontColor=00D9FF&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20RAG%20%7C%20Voice%20AI%20%7C%20Automation&descAlignY=60&descSize=18&descColor=a0aec0&animation=fadeIn" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Arryan%20Rabbani&fontSize=52&fontColor=00D9FF&fontAlignY=38&desc=Full-Stack%20ML%20Engineer%20%E2%80%A2%20AI%20%7C%20LLMs%20%7C%20RAG&descAlignY=60&descSize=18&descColor=a0aec0&animation=fadeIn" width="100%"/>
+
+<br/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Practical+AI+Systems;RAG+%7C+Voice+AI+%7C+Enterprise+Automation;Python+%7C+FastAPI+%7C+React+%7C+LangChain;Turning+Business+Problems+Into+Working+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+AI+Systems+That+Think;PyTorch+%7C+FastAPI+%7C+React+%7C+LangChain+%7C+RAG;Local+LLMs+%7C+Vector+Databases+%7C+Docker;Open+for+ML+Engineer+%26+Full-Stack+Roles" />
 </a>
 
-
-
-
-
+<br/><br/>
 
 <a href="mailto:arryanrabbani8@gmail.com"><img src="https://img.shields.io/badge/arryanrabbani8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Arryan313"><img src="https://img.shields.io/badge/Arryan313-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -14,22 +16,20 @@
 
 </div>
 
+<br/>
 
+## `> whoami`
 
-> whoami
-
-Python
-
-
+```python
 class ArryanRabbani:
     name     = "Arryan Rabbani"
-    role     = "AI Engineer"
+    roles    = ["Full-Stack ML Engineer", "AI Systems Developer"]
     location = "Rawalpindi, Pakistan"
-    mission  = "Building practical AI systems for real business problems"
-    focus    = ["RAG Systems", "Voice AI", "Enterprise Automation"]
+    passion  = "Building intelligent software that solves real business problems"
+    goal     = "ML Engineer & Full-Stack Developer"
 
     stack = {
-        "ai_ml"     : ["LangChain", "RAG", "HuggingFace", "Scikit-learn"],
+        "ai_ml"     : ["Scikit-learn", "LangChain", "RAG", "HuggingFace"],
         "backend"   : ["Python", "FastAPI", "Flask", "Next.js", "Prisma"],
         "frontend"  : ["React", "Tailwind CSS", "shadcn/ui"],
         "databases" : ["PostgreSQL", "ChromaDB", "SQLite"],
@@ -37,540 +37,265 @@ class ArryanRabbani:
         "tools"     : ["VS Code", "Cursor"],
     }
 
-    def current_focus(self ):
-        return "Turning complex business problems into reliable AI products"
+    def current_focus(self):
+        return "Conversational AI • RAG systems • Enterprise AI platforms"
+```
 
+<br/>
 
-
-I build AI products—not just prototypes. My work combines machine learning, backend engineering, and product-focused frontend development to create systems people can actually use.
-
-My current focus is on private RAG platforms, conversational and voice AI, and intelligent enterprise automation.
-
-🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-🤖 NexusAI — Call Center Command & Automation Platform
+### 🌐 AI Web Intelligence Agent — Autonomous Web Scraping Platform
 
-Conversational AI Voice Agents CRM Integration RAG Omnichannel
+`Next.js` `React` `Tailwind CSS` `Prisma` `SQLite` `shadcn/ui`
 
-</div>
-
-An enterprise AI platform designed to reduce call-center workload, eliminate manual follow-ups, and turn customer conversations into actionable business workflows.
-
-Feature
-Description
-🎙️ Live Voice Agent Studio
-Handles routine conversations with real-time sentiment and intent extraction
-👥 Customer 360 CRM Hub
-Connects customer context with HubSpot, Salesforce, Zendesk, and Zoho
-📱 Omnichannel Dispatch
-Triggers WhatsApp, SMS, and email follow-ups after a call
-📊 Automated QA Scoring
-Reviews every call instead of relying only on manual sampling
-⚡ Visual Workflow Builder
-Automates flows such as “missed call → booking link”
-
-
-
-
-What this demonstrates
-
-•
-Designing AI workflows around real operational problems
-
-•
-Connecting conversations, CRM data, and business automation
-
-•
-Thinking about latency, follow-up actions, and measurable ROI
-
-<p align="center">
-<a href="https://nexusai-crm-ai-call-center-automation-suite.ai.studio"><img src="https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge&logoColor=white" /></a>
-</p>   
-
-
-
-
-
-
-
-<div align="center">
-
-🌐 AI Web Intelligence Agent — Autonomous Web Research Platform
-
-Next.js React Tailwind CSS Prisma SQLite shadcn/ui
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Repo stars](https://img.shields.io/github/stars/Arryan313/-AI-Web-Intelligence-Agent?style=flat-square&color=00D9FF&labelColor=0D1117)
+![Last commit](https://img.shields.io/github/last-commit/Arryan313/-AI-Web-Intelligence-Agent?style=flat-square&color=FF6B35&labelColor=0D1117)
+![Top language](https://img.shields.io/github/languages/top/Arryan313/-AI-Web-Intelligence-Agent?style=flat-square&color=22B5BF&labelColor=0D1117)
 
 </div>
 
-A natural-language research platform that turns a question into a structured, validated, and trackable web-intelligence job.
+Describe what you want to find in plain English — the agent plans, crawls, extracts, validates, and presents structured results autonomously.
 
-Feature
-Description
-🧠 Plain-English Jobs
-Describe the research task without writing crawler code
-🕷️ Autonomous Web Crawler
-Crawls target URLs with configurable page and depth limits
-📊 Structured Extraction
-Extracts, validates, and compares data across research jobs
-⏰ Scheduled Scraping
-Runs recurring jobs with field history and analytics
-🔍 Site Reconnaissance
-Provides audit logs, templates, notifications, and recon tools
-🛠️ Mock AI Mode
-Supports local development without an API key
+| Feature | Description |
+|---|---|
+| 🧠 Plain-English Jobs | Describe your intelligence task in natural language — no code needed |
+| 🕷️ Autonomous Web Crawler | Crawls target URLs with configurable page and depth limits |
+| 📊 Structured Extraction | Extracts, validates, and compares structured data across jobs |
+| ⏰ Scheduled Scraping | Set recurring jobs with full tracking, field history, and analytics |
+| 🔍 Site Reconnaissance | Built-in recon tools, AI audit logs, project templates, and notifications |
+| 🛠️ Mock AI Mode | Full local development without any API key required |
 
-
-
-
-Plain Text
-
-
-Describe task → Agent plans → Crawls → Extracts → Validates → Presents results
-
-
+```
+Describe task in English → Agent plans → Crawls URLs → Extracts data → Validates → Dashboard
+```
 
 <p align="center">
 <a href="https://github.com/Arryan313/-AI-Web-Intelligence-Agent"><img src="https://img.shields.io/badge/🔗_View_Repository-00D9FF?style=for-the-badge&logoColor=white" /></a>
-</p>   
+</p>
 
+<br/>
 
+---
 
-
-
-
+<br/>
 
 <div align="center">
 
-📚 DocMind — Private RAG Document Q&A
+### 🤖 NexusAI — Call Center Command & Automation Platform
 
-FastAPI React LangChain ChromaDB HuggingFace Embeddings
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+`Conversational AI` `Voice Agents` `CRM Integration` `RAG` `Omnichannel`
 
 </div>
 
-A private document assistant that lets users upload files, ask questions, and receive answers with source attribution—without sending documents to external APIs.
+Enterprise AI platform solving the biggest challenges in modern call centers — long hold times, manual CRM entry, and slow follow-ups.
 
-Feature
-Description
-📄 PDF/TXT Ingestion
-Upload documents and make them searchable immediately
-🧠 Semantic Search
-Uses local MiniLM embeddings for private retrieval
-💾 Vector Storage
-Persists embeddings with ChromaDB across sessions
-🔗 Source Attribution
-Shows the document and page supporting each answer
-⚡ Fully Offline
-Runs locally with no OpenAI key or usage cost
+| Feature | Description |
+|---|---|
+| 🎙️ Live Voice Agent Studio | Sub-500ms latency, real-time sentiment analysis, caller intent extraction |
+| 👥 Customer 360 CRM Hub | Bi-directional sync with HubSpot, Salesforce, Zendesk & Zoho |
+| 📱 Omnichannel Dispatch | Instant WhatsApp/SMS/Email follow-ups the second a call ends |
+| 📊 Automated QA Scoring | AI evaluates 100% of calls — vs humans listening to 1–2% |
+| ⚡ Visual Workflow Builder | Event triggers e.g. "missed call → auto-text booking link" |
 
-
-
-
-Plain Text
-
-
-Upload PDF → Chunk → Embed → Retrieve → Answer with sources
-
-
+**Highlights**
+- Resolves routine calls without a human agent
+- Eliminates manual follow-ups and reduces no-show rates
+- Financial ROI & AHT savings calculator built-in
 
 <p align="center">
-<a href="https://github.com/Arryan313/rag-qa-system"><img src="https://img.shields.io/badge/🔗_View_Repository-00D9FF?style=for-the-badge&logoColor=white" /></a>
-</p>   
+<a href="https://nexusai-crm-ai-call-center-automation-suite.ai.studio"><img src="https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge&logoColor=white" /></a>
+</p>
 
+<br/>
 
+---
 
-
-
-
+<br/>
 
 <div align="center">
 
-🔬 Polymath Lab — Interactive STEM Platform
+### 🔬 Polymath Lab — Interactive STEM Platform
 
-AI Simulation React Real-Time Visualization Voice AI LangChain
+`AI Simulation` `React` `Real-Time Visualization` `Voice AI` `LangChain`
 
 </div>
 
-An interactive learning platform that turns complex scientific and mathematical ideas into visual, explorable, and voice-guided simulations.
+Transforms complex scientific and mathematical ideas into real-time, visual simulations you can see, hear, manipulate, and explore.
 
-Feature
-Description
-⚡ 60fps Simulations
-Explore physics, neural networks, orbital mechanics, and DNA replication
-🧠 AI Concept Generator
-Generate custom canvases, formulas, and quizzes from a topic
-📊 Live Telemetry Recorder
-Capture real-time data and export it as CSV
-🔀 Dual Comparison Mode
-Run two simulations side by side to compare outcomes
-🎙️ Voice Walkthroughs
-Learn through guided explanations and contextual quizzes
+| Feature | Description |
+|---|---|
+| ⚡ 60fps Simulations | Physics, neural networks, orbital mechanics, DNA replication |
+| 🧠 AI Concept Generator | Type any topic — AI builds custom canvas, formulas & quizzes |
+| 📊 Live Telemetry Recorder | Real-time data capture with CSV export |
+| 🔀 Dual Comparison Mode | Run two simulations side-by-side to compare outcomes |
+| 🎙️ Voice Walkthroughs | Guided voice explanations with contextual knowledge quizzes |
 
-
-
-
-Plain Text
-
-
-Choose a topic → Generate simulation → Adjust variables → Explore the result
-
-
+```
+Type a topic → AI generates interactive canvas → Adjust sliders → See it at 60fps
+```
 
 <p align="center">
 <a href="https://polymath-lab-ai-science-math-visualizer.ai.studio"><img src="https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge&logoColor=white" /></a>
-</p>   
+</p>
 
+<br/>
 
+---
 
-
-
-
+<br/>
 
 <div align="center">
 
-🏢 HR Genius — AI-Powered HR Management Platform
+### 📚 RAG Document Q&A — DocMind
 
-Flask SQLite scikit-learn REST APIs
+`FastAPI` `React` `LangChain` `ChromaDB` `HuggingFace Embeddings`
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Repo stars](https://img.shields.io/github/stars/Arryan313/rag-qa-system?style=flat-square&color=00D9FF&labelColor=0D1117)
+![Last commit](https://img.shields.io/github/last-commit/Arryan313/rag-qa-system?style=flat-square&color=FF6B35&labelColor=0D1117)
+![Top language](https://img.shields.io/github/languages/top/Arryan313/rag-qa-system?style=flat-square&color=22B5BF&labelColor=0D1117)
 
 </div>
 
-An end-to-end HR platform that combines role-based workflows with machine-learning insights for workforce management.
+Upload PDFs. Ask questions. Get cited answers — fully private, zero API costs.
 
-Module
-Description
-👤 Authentication
-Secure sessions with Flask-Login and Werkzeug
-📊 Analytics Dashboard
-Live workforce analytics with an interactive interface
-🤖 AI Reviews
-Performance reviews with anti-bias analysis
-🔮 Churn Prediction
-Flags employees who may be at risk of leaving
-📋 HR Operations
-Attendance, payroll, assets, leave, and audit logs
+| Feature | Description |
+|---|---|
+| 📄 PDF/TXT Ingestion | Upload documents and instantly make them queryable |
+| 🧠 Semantic Search | all-MiniLM-L6-v2 local embeddings — free & private |
+| 💾 Vector Storage | ChromaDB with persistent storage across sessions |
+| 🔗 Source Attribution | Every answer shows which document and page it came from |
+| ⚡ Fully Offline | No OpenAI, no API keys, runs entirely on your machine |
 
+```
+Upload PDF → chunk → embed → ChromaDB → semantic search → AI answer + sources
+```
 
+<p align="center">
+<a href="https://github.com/Arryan313/rag-qa-system"><img src="https://img.shields.io/badge/🔗_View_Repository-00D9FF?style=for-the-badge&logoColor=white" /></a>
+</p>
 
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+### 🏢 HR Genius — AI-Powered HR Management Platform
+
+`Flask` `SQLite` `scikit-learn` `REST APIs`
+
+![Repo stars](https://img.shields.io/github/stars/Arryan313/hr_genius?style=flat-square&color=00D9FF&labelColor=0D1117)
+![Last commit](https://img.shields.io/github/last-commit/Arryan313/hr_genius?style=flat-square&color=FF6B35&labelColor=0D1117)
+![Top language](https://img.shields.io/github/languages/top/Arryan313/hr_genius?style=flat-square&color=22B5BF&labelColor=0D1117)
+
+</div>
+
+End-to-end HR platform with role-based access and ML-powered workforce insights.
+
+| Module | Feature |
+|---|---|
+| 👤 Auth | Werkzeug-secured + Flask-Login sessions |
+| 📊 Dashboard | AJAX-powered live analytics with glassmorphism UI |
+| 🤖 AI Reviews | Performance review with anti-bias detection |
+| 🔮 Churn Prediction | ML model flags at-risk employees |
+| 📋 Full Modules | Attendance, payroll, asset management, leave requests, audit logs |
 
 <p align="center">
 <a href="https://arryan.pythonanywhere.com/"><img src="https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge&logoColor=white" /></a>
 <a href="https://github.com/Arryan313/hr_genius"><img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>   
+</p>
 
+<br/>
 
+---
 
-
-
-
+<br/>
 
 <div align="center">
 
-🎨 Nouman Iftikhar — Client Portfolio Website
+### 🎨 Nouman Iftikhar — Personal Portfolio Website
 
-React Tailwind CSS Netlify
+`React` `Tailwind CSS` `Netlify`
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Repo stars](https://img.shields.io/github/stars/Arryan313/nouman-iftikhar-portfolio?style=flat-square&color=00D9FF&labelColor=0D1117)
+![Last commit](https://img.shields.io/github/last-commit/Arryan313/nouman-iftikhar-portfolio?style=flat-square&color=FF6B35&labelColor=0D1117)
+![Top language](https://img.shields.io/github/languages/top/Arryan313/nouman-iftikhar-portfolio?style=flat-square&color=22B5BF&labelColor=0D1117)
 
 </div>
 
-A responsive portfolio website delivered for a client, demonstrating frontend execution, responsive design, and continuous deployment.
+A clean, responsive personal portfolio website built and deployed for a client — showcasing their work, skills, and contact information.
 
-Feature
-Description
-🎨 Modern UI
-Clean interface optimized for desktop, tablet, and mobile
-⚡ Fast Deployment
-Continuous deployment through GitHub and Netlify
-📱 Responsive Experience
-Consistent layout across screen sizes
-🔗 Client-Ready Delivery
-A live website built around the client's goals
-
-
-
+| Feature | Description |
+|---|---|
+| 🎨 Modern UI | Sleek, responsive design optimized for all screen sizes |
+| ⚡ Fast Deployment | Hosted on Netlify with continuous deployment from GitHub |
+| 📱 Fully Responsive | Pixel-perfect layout across desktop, tablet, and mobile |
+| 🔗 Client-Ready | Production-grade build delivered and live for the client |
 
 <p align="center">
 <a href="https://cool-taiyaki-35bd9b.netlify.app/"><img src="https://img.shields.io/badge/🔗_Live_Demo-00D9FF?style=for-the-badge&logoColor=white" /></a>
 <a href="https://github.com/Arryan313/nouman-iftikhar-portfolio"><img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>   
+</p>
 
+<br/>
 
+## 🛠️ Tech Stack
 
-🛠️ Tech Stack
+**AI & Machine Learning**
 
-AI & Machine Learning
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Systems-00D9FF?style=for-the-badge&logoColor=white)
 
+**Backend**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+**Frontend**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+**Databases & Vector Stores**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1F1F1F?style=for-the-badge&logo=databricks&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+**DevOps & Tools**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
+<br/>
 
+## 📊 GitHub Analytics
 
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Arryan313&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github&include_all_commits=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arryan313&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="49%" />
 
+<br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arryan313&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="48%" />
 
+</div>
 
+<br/>
 
+## 🗺️ Engineering Journey
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Backend
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Frontend
-
-
-
-
-
-
-
-
-
-
-
-Databases & Vector Stores
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-DevOps & Tools
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-📊 GitHub Analytics
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arryan313&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arryan313&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="49%" />   
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arryan313&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="48%" /> </div>   
-
-
-
-🗺️ Engineering Journey
-
-Plain Text
-
-
+```
 2022  ──►  Data Analyst
               └─ Python, SQL, Power BI dashboards
 
@@ -581,25 +306,28 @@ Plain Text
               └─ React, FastAPI, REST APIs, databases
 
 2026  ──►  AI Engineer  ◄── YOU ARE HERE
-              └─ RAG, LangChain, voice AI, enterprise automation
+              └─ PyTorch, LangChain, RAG, Docker, Enterprise AI platforms
 
 Next  ──►  LLM Solutions Architect
-              └─ Scalable AI systems and multi-agent orchestration
+              └─ Scalable AI systems, multi-agent orchestration
+```
 
+<br/>
 
-
-🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-I'm open to AI Engineer, ML Engineer, and Full-Stack Developer opportunities—remote or on-site.
+I'm open to **ML Engineer** and **Full-Stack Developer** roles — remote or on-site.
 
-I enjoy building systems that connect AI capabilities with real product and business outcomes.
+📧 **arryanrabbani8@gmail.com** &nbsp;|&nbsp; 🐙 **[@Arryan313](https://github.com/Arryan313)**
 
-📧 arryanrabbani8@gmail.com  |  🐙 @Arryan313
+*"Build what matters. Ship it. Make it real."*
 
-"Practical AI. Real Products. Measurable Impact."
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=Arryan313&color=00D9FF&style=flat-square&label=Profile+Views" />
 
-<img src="https://komarev.com/ghpvc/?username=Arryan313&color=00D9FF&style=flat-square&label=Profile+Views" /> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=a0aec0&animation=fadeIn&fontAlignY=70" width="100%"/>
+</div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=a0aec0&animation=fadeIn&fontAlignY=70" width="100%"/>
